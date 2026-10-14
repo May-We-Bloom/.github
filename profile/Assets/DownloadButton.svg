@@ -1,0 +1,26 @@
+<!--
+Created with
+
+         888                                                  d8b
+         888                                                  Y8P
+         888
+.d8888b  888888  8888b.  88888b.d88b.  88888b.  .d8888b      8888 .d8888b       .d88b.  888d888 .d88b.
+88K      888        "88b 888 "888 "88b 888 "88b 88K          "888 88K          d88""88b 888P"  d88P"88b
+"Y8888b. 888    .d888888 888  888  888 888  888 "Y8888b.      888 "Y8888b.     888  888 888    888  888
+     X88 Y88b.  888  888 888  888  888 888 d88P      X88      888      X88     Y88..88P 888    Y88b 888
+ 88888P'  "Y888 "Y888888 888  888  888 88888P"   88888P'  88  888  88888P'  88  "Y88P"  888     "Y88888
+                                       888                    888                                   888
+                                       888                   d88P                              Y8b d88P
+                                       888                 888P"                                "Y88P"
+
+
+
+Icon: Font Awesome Free by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license/free (Icons: CC BY 4.0)
+Copyright Fonticons, Inc.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.17000000000002 50" width="130.17000000000002" height="50" style="cursor:pointer"><defs><style>
+            svg, text {
+              font-family: "helvetica", helvetica;
+            }
+          </style><filter id="shadow" filterUnits="userSpaceOnUse" x="-8" y="-8" width="130.17000000000002" height="50"><feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#000000"></feDropShadow></filter><linearGradient id="background" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#6fa720"></stop><stop offset="1" stop-color="#588a1b"></stop></linearGradient></defs><g transform="translate(8 8)"><rect x="0" y="0" width="114.17" height="34" fill="url(#background)" rx="4" ry="4" stroke-width="0" stroke="#000000" filter="url(#shadow)"></rect><svg x="14" y="10" width="12.25" height="14" viewBox="0 0 448 512"><path d="M256 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 210.7-41.4-41.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l96 96c12.5 12.5 32.8 12.5 45.3 0l96-96c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 242.7 256 32zM64 320c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-46.9 0-56.6 56.6c-31.2 31.2-81.9 31.2-113.1 0L110.9 320 64 320zm304 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z" fill="#ddf0c1"></path></svg><text x="33.25" y="11" text-anchor="start" alignment-baseline="hanging" fill="#ddf0c1" style="font-family:helvetica, helvetica;font-size:14;font-weight:bold;user-select:none;cursor:inherit;pointer-events:none">Download</text></g></svg>

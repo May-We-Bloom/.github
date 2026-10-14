@@ -1,0 +1,26 @@
+<!--
+Created with
+
+         888                                                  d8b
+         888                                                  Y8P
+         888
+.d8888b  888888  8888b.  88888b.d88b.  88888b.  .d8888b      8888 .d8888b       .d88b.  888d888 .d88b.
+88K      888        "88b 888 "888 "88b 888 "88b 88K          "888 88K          d88""88b 888P"  d88P"88b
+"Y8888b. 888    .d888888 888  888  888 888  888 "Y8888b.      888 "Y8888b.     888  888 888    888  888
+     X88 Y88b.  888  888 888  888  888 888 d88P      X88      888      X88     Y88..88P 888    Y88b 888
+ 88888P'  "Y888 "Y888888 888  888  888 88888P"   88888P'  88  888  88888P'  88  "Y88P"  888     "Y88888
+                                       888                    888                                   888
+                                       888                   d88P                              Y8b d88P
+                                       888                 888P"                                "Y88P"
+
+
+
+Icon: Font Awesome Free by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license/free (Icons: CC BY 4.0)
+Copyright Fonticons, Inc.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 142.07 50" width="142.07" height="50" style="cursor:pointer"><defs><style>
+            svg, text {
+              font-family: "helvetica", helvetica;
+            }
+          </style><filter id="shadow" filterUnits="userSpaceOnUse" x="-8" y="-8" width="142.07" height="50"><feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#000000"></feDropShadow></filter><linearGradient id="background" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#145386"></stop><stop offset="1" stop-color="#07193e"></stop></linearGradient></defs><g transform="translate(8 8)"><rect x="0" y="0" width="126.07000000000001" height="34" fill="url(#background)" rx="4" ry="4" stroke-width="0" stroke="#90bee9" filter="url(#shadow)"></rect><svg x="7" y="2" width="22.25" height="30" viewBox="0 0 448 512"><path d="M273.5 177.5a61 61 0 1 1 122 0 61 61 0 1 1 -122 0zm174.5 .2c0 63-51 113.8-113.7 113.8L225 371.3c-4 43-40.5 76.8-84.5 76.8-40.5 0-74.7-28.8-83-67L0 358 0 250.7 97.2 290c15.1-9.2 32.2-13.3 52-11.5l71-101.7C220.7 114.5 271.7 64 334.2 64 397 64 448 115 448 177.7zM203 363c0-34.7-27.8-62.5-62.5-62.5-4.5 0-9 .5-13.5 1.5l26 10.5c25.5 10.2 38 39 27.7 64.5-10.2 25.5-39.2 38-64.7 27.5-10.2-4-20.5-8.3-30.7-12.2 10.5 19.7 31.2 33.2 55.2 33.2 34.7 0 62.5-27.8 62.5-62.5zM410.5 177.7a76.4 76.4 0 1 0 -152.8 0 76.4 76.4 0 1 0 152.8 0z" fill="#d2d6df"></path></svg><text x="34.25" y="11" text-anchor="start" alignment-baseline="hanging" fill="#d2d6df" style="font-family:helvetica, helvetica;font-size:14;font-weight:bold;user-select:none;cursor:inherit;pointer-events:none">Steam Page</text></g></svg>
